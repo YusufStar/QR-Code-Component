@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://qr-code-component-one-lime.vercel.app/
 
 ## Available Scripts
 
